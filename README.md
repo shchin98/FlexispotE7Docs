@@ -1,4 +1,4 @@
-# ESPHome
+# Flexispot E7 Smart Desk Docs
 
 This repository contains my current HomeAssistant smartdesk setup. Feel free to explore the code, configuration. Kindly note that this is not fully details guide. For more detailed info, kindly checkout these awsome resources:
 
