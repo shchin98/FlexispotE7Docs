@@ -14,8 +14,8 @@ This repository contains my current HomeAssistant smartdesk setup. Feel free to 
 - ESP32 (Type C)
 - Female to Male PIN
 - CAT 6 LAN Cable
-- Solder tools
-- Heat gun + Heat Shrink
+- Solder Tools
+- Heat Gun + Heat Shrink
 
 ---
 
