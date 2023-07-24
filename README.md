@@ -5,7 +5,6 @@ This repository contains my current HomeAssistant smartdesk setup. Feel free to 
 - [LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT/tree/main)
 - [Video Guide](https://www.youtube.com/watch?v=ZebpHxfhHfA&t=1s)
 - [Success Example Video](https://youtube.com/shorts/9_znj6x3IMw?feature=share)
-- [![Success Example Video]](https://youtube.com/shorts/9_znj6x3IMw?feature=share)
 
 ---
 
