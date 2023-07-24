@@ -4,7 +4,10 @@ This repository contains my current HomeAssistant smartdesk setup. Feel free to 
 
 - [LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT/tree/main)
 - [Video Guide](https://www.youtube.com/watch?v=ZebpHxfhHfA&t=1s)
-- [Success Example Video](https://youtube.com/shorts/9_znj6x3IMw?feature=share)
+
+
+https://github.com/shchin98/FlexispotE7Docs/assets/42485944/d72c5455-d183-4be4-86bd-45d707c7a6ef
+
 
 ---
 
